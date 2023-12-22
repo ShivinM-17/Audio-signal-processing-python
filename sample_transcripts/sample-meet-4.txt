@@ -1,0 +1,85 @@
+start-16.135 -> end-40.299 
+Text:   You're about to see a meeting taking place at ABC Manufacturing. Carol Fletcher and her team are
+gathering for their fortnightly meeting. The agenda contains seven items, including any other
+business. Take a moment now to gather pens and paper and position yourself to take the role of
+minute taker. Before the meeting starts... Welcome to our department meeting and nice to see you
+all.
+
+start-40.52 -> end-63.217 
+Text:   Now we have a new team member, Trudy Finch, our HR manager, so I'd like to start with some
+introductions. As you are aware, I'm the senior team manager, Carol Fletcher. Peter. Hi, I'm Peter
+Morgan, finance manager, with a team of five reporting to me. And I'm Frank Mayfair, head of IT,
+I've been here for the last ten years.
+
+start-63.865 -> end-86.715 
+Text:   Hi Trudy, I'm Mike Reynard. We spoke on the phone last week. I'm in charge of the production floor.
+I came in 15% cheaper. That is a significant amount. Okay Peter, go ahead and purchase on the
+proviso that the quality and guarantee are just as good.
+
+start-91.886 -> end-105.162 
+Text:   Okay, Mike, could you update us on the production figures for last quarter please? Absolutely.
+Figures are up on the previous quarter by 2% on product streams 1 and 2 and down
+
+start-108.473 -> end-136.067 
+Text:   We believe this is due to a recent sales campaign which focused on the higher margin items in
+product streams one and two, which is a little short-sighted as reorder rates on stream three
+products are quicker. So we tend to sell more products. Moving on to the next agenda item.
+
+start-136.459 -> end-162.5 
+Text:   Trudy, could you summarise the recent recruitment programme? Absolutely. Basically the full figures
+are in the HR report on the intranet so I'll just give a brief overview. We recruited ten new people
+January to April and nine have successfully completed their probation. So just one woman, Sheila
+Rose, she left after three weeks her husband had to relocate for work. So overall it was a success.
+
+start-163.029 -> end-190.333 
+Text:   And interestingly, our successful recruits came from the radio ad rather than our traditional
+advertising route. So therefore, I would suggest that we review our advertising methods with a black
+and yellow safety tape at the top and bottom of the stairs to warn people as a visual sign. Now,
+unfortunately, whoever put the tape down didn't do a particularly good job. They left a limb.
+Somebody tripped over the safety tape, caused themselves an injury. So we need to be aware of that
+sort of thing.
+
+start-191.067 -> end-214.428 
+Text:   Okay, were there any other areas? We're now just about to approach the implementation phase so I'd
+appreciate your input on two options for rollout actually and how to best roll out the training
+programme on site. I'm in favour of a phased rollout so we can check for faults whilst keeping the
+level of service high. Actually I disagree.
+
+start-214.48 -> end-239.462 
+Text:   I think for a culture change do a swift implementation and just force people into the new system.
+The longer that we dally then the more resistance people can have. We need to consider the impact on
+shifts before we implement anything. Let's not be too hasty. We need to get this right first time.
+By phasing we can sell its success to departments as we go. To deliver the training, I mean we don't
+want to risk leaving the training until the new system is installed.
+
+start-239.633 -> end-264.514 
+Text:   We've thought of that. We've got a dummy testing system which is coming next week so we can
+actually start to train within our individual teams for actually next Wednesday. Who is doing the
+training and what's the cost? I think that's over to HR, isn't it? You're doing the training. No,
+no, no. We don't have the resource. Oh. I mean, you'll need to recruit and train people from within
+the business. We're happy to develop a training calendar and we'll communicate that out to managers.
+
+start-264.701 -> end-283.575 
+Text:   I mean, look, it's an excellent opportunity to get some system champions in place and give people
+the opportunity to develop their skills. We need to make sure they're competent at training the
+system. We can't afford for people to be poorly trained once it's live. I mean, from the pilot, we
+can develop a training day and train the trainers and we'll give them ongoing support.
+
+start-284.002 -> end-309.804 
+Text:   See, now don't forget that we've agreed to be the trial department so we can... One of my team had
+a good idea. Why don't we allow people 20 minutes per day during their lunch break and then have
+clear penalties for people found using the net outside of that time. How would we monitor that? I'd
+just say we need to make sure that people are motivated and if it's too harsh a penalty then people
+are just going to maybe misuse the system even more. Okay, what other ideas have we got?
+
+start-310.333 -> end-333.473 
+Text:   We could put a stop to it all together and only allow people access to our own intranet system. You
+see, that's all very well, but we need to keep people motivated and some people use the internet for
+work. If all we do is take away from them, there'll be eruptions on the shop floor. We don't want to
+be perceived as just taking away all of them. I'm planning to be involved in the actual cycle ride.
+I'm happy to take that role on, fly the flag. Good, thanks Peter.
+
+start-333.985 -> end-348.899 
+Text:   OK, are there any further items to cover in any other business? Not from me. No. OK, on that note,
+let's summarise the actions and close the meeting. Our next meeting is in two weeks' time, 18th
+October, same time and place.

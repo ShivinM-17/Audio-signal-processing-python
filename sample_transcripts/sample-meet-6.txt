@@ -1,0 +1,409 @@
+start-0.009 -> end-29.906 
+Text:   So hello, all. My name is Krish, and welcome to my YouTube channel. Today we have with us Tavishy.
+And probably after many days, I'm making this kind of transition stories, videos, specifically with
+people who have made transitions. So Tavishy, welcome. Definitely, there'll be a lot of things to
+have a discussion in this podcast. But first of all, congratulations. You've made some terrific
+transition. We'll understand about that entire story. Before we go ahead, first of all, how are you
+feeling right now?
+
+start-30.964 -> end-49.206 
+Text:   I am actually, I'm at the seventh heaven. And because the reason is I'm having so many jobs in my
+hand in this recession time period. So obviously I must be feeling so, so, so good. People are
+looking for even one job and I have so many jobs in my hand.
+
+start-49.94 -> end-74.104 
+Text:   Okay, perfect. So Tavishy, before we go ahead, just give a brief intro about yourself, like what
+your education background is and why data science for the first time, like first instance. Okay. So
+hello, everyone. My name is Tavishy. I'm from New Delhi, India. I've done B.Tech in computer science
+in 2014. But I was not able to
+
+start-74.923 -> end-98.37 
+Text:   joined as a software engineer or any other department because I wanted to become a fighter pilot.
+So that time I tried for that, but because of the medical reasons, I was not able to make it
+possible. So in 2015, I got an opportunity, like there was a mass hiring, I will not say, I will not
+lie, there was a mass hiring going on in Snapdeal. So I joined Snapdeal as an onboard specialist.
+
+start-98.37 -> end-117.978 
+Text:   because I was not a fresher and there was a gap of 8-9 months, so I was not able to join any
+company as a software engineer. I tried also, but I could not make it possible. And there was a fear
+also that my sub-friends have already joined. There are very less options for me.
+
+start-117.978 -> end-143.114 
+Text:   then later on when I was working over there then I realized like I am not meant for this thing like
+onboard specialist they are just calling and they are asking people okay can you give us the details
+and all so this was not me so that time I was working on the MySQL also so that time I I've made up
+my mind why not to change the field so in 2015 November I got a chance in
+
+start-143.114 -> end-162.09 
+Text:   polygon fabrics to join as an analyst, data analyst. So there, like, my career has been started. So
+later on, when I was working there, my job was, like, my work was stagnant over there, my growth was
+stagnant over there. So that time, like, it was like, data science was not
+
+start-162.09 -> end-185.896 
+Text:   at peak, people were just, normally there were only one or two videos were coming over there or one
+or two news were coming over there. They just say aaj, har din if you are just going on internet.
+Okay, now there is this transition in data science, new things are coming. So bahut saari cheeze us
+time nahin thi, so I started. So luckily in my company,
+
+start-186.442 -> end-210.06 
+Text:   they were actually going into this data science field. They were hiring people for that. So that
+time I, like, I hardly worked for two, three months on machine learning things. So I made inside
+transition and later on, like, yeah. So later on, when I was working over there, obviously I was
+facing difficulties and all, but I was,
+
+start-210.06 -> end-240.06 
+Text:   like still may handle by the cheese is still I can do that. But later on, when I was going forward,
+then the point came like, okay, I'm good with machine learning, then why not to go to the other
+other field, like I want to be a part of the computer vision or any other thing. But when I was
+giving interview that time, I was actually facing difficulty because just working on normally
+machine learning algorithms and answering the question to the intro is totally different thing.
+
+start-240.06 -> end-270.06 
+Text:   Because this is the first step, data processing is the first step, scikit-learn library is there to
+help you. Okay, this is the first step, then go for the second step, third step and fourth step. So
+that's totally different thing or answering questions is totally a different thing. So that time I
+was facing difficulties. So I have joined iLearn also for the same. And there I got to know that
+when you were discussing about your channel, okay, just go and watch videos over there. Then I
+started watching your videos.
+
+start-270.06 -> end-292.841 
+Text:   for every single thing. Even for a small thing, I always search. This is my day-to-day part. Okay.
+I just want to search for this gradient boosting Krishnayak video. Deep learning, any topic,
+Krishnayak videos. Because of you, Krishnayak, I have made good transition and, yes, I'm able to
+
+start-293.097 -> end-306.288 
+Text:   You're really modest, obviously. It's really your hard work, you know. So we can only guide you, we
+can only teach you. But at the end of the day, it's all your hard work. So definitely take the
+credit for yourself. Just don't keep it for me.
+
+start-306.664 -> end-325.35 
+Text:   Let's go with the next question. So what do you think, like, how was your preparation strategy? You
+know, every time probably you felt some kind of difficulty. This will definitely help people right
+now who are preparing for data science. So what do you think, like, how was your preparation
+strategy? Like, when you faced any difficulty, how did you solve that?
+
+start-326.22 -> end-354.343 
+Text:   Okay, first of all, when I was learning things, so I was not able to follow one path, because in
+data science, there are so many things, so many things. And to lined up things is a basic. Because
+nowadays, if new things are coming, and if you're not good with your basics, then you will not be
+able to reach at heights. This is for sure. So
+
+start-355.111 -> end-382.261 
+Text:   I actually gave my most of the time to clear my basic parts. So for that, you need to start from
+very basic, very, very, very basic, like Python ka pehla topic, what is string, statistics ka, what
+is statistics, then, then go forward. Okay, what are the other types of like different types of
+statistics? Why, why inferential statistics we are using, why descriptive statistics?
+
+start-382.261 -> end-407.722 
+Text:   we are using. So I took actually step by step. Before that, I was just jumping. Okay, today in
+machine learning, we have to do another algorithm. Today in deep learning, we have to do object
+detection. But before that, I was not even aware about the classification. So these kinds of
+mistakes I have made. Then later on, I actually made a strategy. Okay, I will show you something. I
+have a notebook like this.
+
+start-408.439 -> end-432.927 
+Text:   So actually, this was suggested by one of my friends. Why you are just writing in a, like, okay, I
+will show you these things. Because sometimes it happens, like you have, you already have a study
+material, but you want to write something. So that's why I took, like, I chose these kinds of
+strategies. So I have these four or five notebooks with me.
+
+start-433.865 -> end-453.285 
+Text:   Okay, this you can call it as your holy Bible, you know. Holy Bible. When I actually I was using
+register before that like pages normal. So that time what I like what I faced when I was reading new
+things or when I was revising things so new things are coming up.
+
+start-453.285 -> end-472.688 
+Text:   And what I feel is that if you watch a video from somewhere and you understand that thing and
+somebody is giving you a very good explanation over there, always get a printout. Always, always get
+a printout and put that company in the notebook. Because when we revise it again,
+
+start-472.688 -> end-501.749 
+Text:   So you will figure out that yes, I know this. Now, Krishnayak, I have seen your videos so many
+times that I can tell you where it is, where it is not, what you have said, what example you have
+given. I will definitely tell you everyone about this. Krishnayak has said in an SPM video that in
+an Amazon interview, he asked the question, what is the significance of C and eta we are using?
+
+start-501.749 -> end-522.585 
+Text:   Same question was asked to me in Datamatic. And the interviewer was impressed, like I knew this
+thing. So you have done so many small things in your videos, there is no need to see anything else.
+There is no need to see anything from anywhere. And I'm not promoting you right now. I'm just
+telling you my experience.
+
+start-522.944 -> end-544.497 
+Text:   Thank you, Tavishy. Thank you. Tavishy, how was your interview process? Probably tell in a little
+bit detailed manner so that people will be able to understand how many rounds you had, in the first
+round, what did you ask, in the second round, what did you ask. I hope you also tell us how many
+offers you currently have. Tell us if you're comfortable with that.
+
+start-545.026 -> end-555.845 
+Text:   I have more than six, seven offers right now. And yeah. In the first round of the interview, I was
+mostly given the assignment.
+
+start-556.51 -> end-580.572 
+Text:   like they are giving me the random assignments, they are giving their data and they are saying,
+make a machine learning model, come up with the idea, come up with the end to end project. So they
+gave me only two days of time. And in those two days, why companies are actually approaching this?
+Because if you are already experienced and if you are just going, okay, if you are a fresher also,
+then you must be having idea about
+
+start-580.572 -> end-591.442 
+Text:   You cannot make fool to companies. So they are just testing you.
+
+start-591.937 -> end-614.633 
+Text:   Then later on, they mostly talk about what you have done in your assignment, what projects you have
+done, what strategies you have made. And like in machine learning, people mostly asking about, okay,
+why if there is an imbalance data, then how you will handle that? Why there is a
+
+start-614.633 -> end-629.667 
+Text:   like what is the possibility of leakage of a data? How you will find out why there is a leakage of
+a data and there is an overfitting? How will you distinguish between these two things? So these type
+of questions
+
+start-629.667 -> end-659.172 
+Text:   Why logistic regression is logistic regression? Why we are not calling it logistic classification?
+Why in linear regression, we have three metrics or four metrics, MAE, MSE, RMSE? In class, I have
+explained everything, I guess. You have explained every single thing. Why decision tree? Why
+decision tree is not performing well? Why always overfitting?
+
+start-659.172 -> end-666.408 
+Text:   OK, one more strategy I would like to tell you if you want to do machine learning algorithms one by
+one.
+
+start-667.244 -> end-692.875 
+Text:   First of all, if your base is good with linear regression, then I'm telling you, you won't have any
+problem with any algorithm. Second thing, before going to the second algorithm, always, always look,
+why, why, why this algorithm? If we have invented the previous algorithm, then why did we need this
+algorithm? What was the drawbacks over there? So if you will go with this strategy, why didn't you
+do that there?
+
+start-693.148 -> end-707.022 
+Text:   Quality is there for linear regression. So why more decision tree? Why K&N? So if you move forward
+with this approach, then definitely you will make it possible. At the end, you won't have any
+question that you can't answer.
+
+start-708.302 -> end-724.514 
+Text:   Very nice. So motivating, right? And you're right, right? If you probably anybody who follows this
+strategy, where they focus on understanding why and probably at the end of the day, know how to
+implement end to end, I think that would be more than sufficient to clear any interview. I hope I'm
+right, right?
+
+start-724.753 -> end-749.889 
+Text:   Yes, and end-to-end. There is a playlist of seven. You started for the seven days. Believe me,
+guys, if you want to just learn end-to-end, just watch that. Be patient. Be patient. When I started
+with the transformer, Sudhanshu explained.
+
+start-749.889 -> end-774.036 
+Text:   Then I was like, I don't want to do it. When I picked it up again, I already knew 20% because I
+already understood what you said. So when I watched the video 3-4 times, I can explain you even
+right now how the transformer works. So never give up, never give up, never give up. If you don't
+understand it once, watch it twice, watch it three times, watch it four times, watch it five times,
+it will be done. It will be 100% done.
+
+start-774.241 -> end-785.128 
+Text:   Great, great, great. What was the maximum hike that you got from one company? Any of the companies?
+Maximum hike.
+
+start-785.213 -> end-804.923 
+Text:   Maximize like, I'm getting like 170, more than 170% also. And one like normal hike is 72 to 80%
+normal hike is 72 to 80%. That is the standard, I guess more than 50% in data science industry,
+you'll be easily be able to get it. 170 is freaking big.
+
+start-804.923 -> end-827.841 
+Text:   I have offers, then why not to check my caliber, where I'm standing, what I can do. And if I'm
+lacking somewhere, then what are the required things? So that's why I'm also giving more interviews
+now. So I'm about to join within two days. But yeah, still I was giving interviews even after
+getting the
+
+start-827.841 -> end-845.128 
+Text:   I think you have finalized the company, right? Yes, I have finalized the company. Who do you like
+to name the company? Johnson's control India. So I'm joining software engineer data scientist over
+there. Very nice.
+
+start-845.606 -> end-873.951 
+Text:   And let's talk about, you know, what do you think was, like, probably just talk about a timeline,
+you know, when you were ready to give the interview. So how much time did you specifically take,
+probably after working so much hard? Because after seeing your notes and things, I can say that you
+have spent a good amount of time. So what was the timeline that you can probably take? And for any
+other people, if they really want to make a switch into data science, what do you think the timeline
+is? Every day, how much hours they need to invest in this?
+
+start-874.548 -> end-893.439 
+Text:   If I talk about myself, I have studied for 13-14 hours. I have studied for 15-15 hours because
+there is not one thing in data science that you have to learn. There are many things. But if you
+want to take your time normally, then 6-7 months.
+
+start-893.66 -> end-915.162 
+Text:   like for learning complete end-to-end models. And consistency is very much important. If you are
+just reading today and you are taking a gap of four or five days, it will not work. It will not
+work. You will have to work hard again. You will have to go back to the videos and see what was in
+the video. You will have to recall it again.
+
+start-915.162 -> end-942.09 
+Text:   And I started applying for jobs in February. Actively, I was looking for a job. So this time, there
+was a recession, so I got a premium job at Naukri.com. So what was my mistake in that? I took this
+resume building also. So I was not aware that my other services haven't started yet. So one month
+ago, I wasn't getting any calls. I wasn't getting any calls because this time, there was a recession
+time period. I took a premium, and then I started getting calls.
+
+start-942.961 -> end-953.183 
+Text:   Believe me, guys, you will get so many calls. If you get 15 calls, you will get 3 or 4 interviews.
+Not more than that. And out of those 3 or 4, you...
+
+start-953.507 -> end-979.906 
+Text:   They will be able to clear the first step in one or two. They won't be able to do it in all. But
+after clearing that step, the interview that has to be given, the actual thing that starts, what
+have you read so far, what is basic, what is not, everything depends on it. And believe me, no one
+asks you why you have used this code, why you haven't used the other code. They will just ask about
+your basic concept. Just basic concept.
+
+start-979.906 -> end-1001.51 
+Text:   What is standardization? What is normalization? In what cases we are using standardization and in
+what we are using normalization? What is central limit theorem? Give a normal example of the day-to-
+day life example of the central limit theorem. So these small, small questions they asked.
+
+start-1001.51 -> end-1026.442 
+Text:   There is nothing big. We just have to go step by step. If we go from A to B, then that is better.
+Rather than A, then we are going to B, then we are again coming back to C. So if you do this, then
+it won't be possible. It will take a lot of time. It will be possible, but it will take a lot of
+time. Whatever topic you are talking about, right? I have made all the videos about all those
+things. It's actually an interesting video.
+
+start-1026.852 -> end-1053.609 
+Text:   Every topic, like you said, standardization, normalization, why do we use it? I teach it like this
+in class too. Very nice. The technique of teaching is following for the interview standards. It's
+going very well. Like I told you, I joined iNeuron also in that one. I know the date also. On the
+16th of April, you started the statistics playlist and there are four videos of that. If anyone has
+seen those videos normally.
+
+start-1053.609 -> end-1072.79 
+Text:   Normally, because you have done so many examples like p-test, z-test, t-test. No one will fail. No
+one will fail. No matter what kind of question comes up, it will solve it 100%. So you did FHDS
+November 21 batch, right?
+
+start-1073.268 -> end-1091.135 
+Text:   I remember that. I have all the notes kept with me. So I usually keep all the notes that are
+available.
+
+start-1091.135 -> end-1115.486 
+Text:   Now, what do you want to say to the rest of the people? In short, if you are preparing, what
+happens to some people is that you have worked hard, right? You also know that sometimes you feel
+like giving up. I need to give up now. This is more than enough. Sometimes I don't understand. When
+there are no calls, many people get frustrated. So what advice should they give with respect to
+preparation?
+
+start-1115.486 -> end-1144.531 
+Text:   with respect to keeping that particular mental state going on. Sometimes, like you are saying, if
+you skip it for one or two days, then there will be a problem that you have to put in more effort.
+Such scenarios come with a lot of people. So what advice would you like to give them with respect to
+preparation? I will say only one thing. If you are not able to give more time for something, the
+first thing is keep notes. Keep notes of each and every single thing.
+
+start-1145.111 -> end-1164.599 
+Text:   Every single thing you can understand because there are thousands of videos available. And what you
+can understand from which video, what you can click, that depends on the person. Take notes of that,
+read that and after finishing every topic, always search for questions.
+
+start-1165.23 -> end-1182.108 
+Text:   Questions on this topic, statistics, you will get three, four websites, good websites where you can
+get more than 100 questions, 75 questions. Add that to your notebook. There will be a point, like
+the first interview I gave, I asked for a date that I need one week.
+
+start-1182.534 -> end-1197.5 
+Text:   Because I had to revise everything. I had to revise everything that I didn't want to leave
+anything. So that time it took me a week to revise everything. Then later on my time started to
+reduce. Like four days, three days, two days, one day.
+
+start-1198.609 -> end-1214.94 
+Text:   Do not lose hope that if it doesn't happen in this, it won't happen in the next. If it doesn't
+happen in this, it won't happen in the next. Do not think that this moment has come with me too. I
+actually cried in front of my husband that I can't do it, I can't do it, this is it, that is it. So
+don't be affected by these things.
+
+start-1216.852 -> end-1241.425 
+Text:   Keep reading, keep learning new things, keep learning new things, simple. If all these things are
+there, then definitely one day you will crack that. One day it will come that you are cracking all
+the interviews. All the interviews. Just like yours right now. Yes. Krish, you won't believe, at one
+time I was actually in a depression that I am not able to crack even one interview. I am not able to
+crack even one single interview. Where am I lacking? Where am I lacking?
+
+start-1241.425 -> end-1262.346 
+Text:   Since then, I have been using these strategies. Since then, I have been using these strategies.
+Since then, I have been using these strategies. Since then, I have been using these strategies.
+
+start-1262.346 -> end-1283.985 
+Text:   This is the question and it's not in my notebook. I know I've read it, it's always there. Just make
+a strategy, make a notebook, read again and again, read again and again, do not give up, call for
+more interviews and follow back. If a company is calling you, because it's calling a lot of people.
+They don't care if you're not responding, they'll call you back.
+
+start-1283.985 -> end-1306.544 
+Text:   So you call them again and again. What is the next process? Mail them. This is how you will
+definitely get a job. This is what my strategy was and this is how I made it possible. I was just
+running behind the company that you took my assignment. You didn't call me back. This is not the
+right way. I was working also and I completed your assignment.
+
+start-1306.544 -> end-1314.821 
+Text:   Then they were in a guilt. They called me again. They interviewed me. Everything happened. And it
+happened. If I hadn't called, my first interview wouldn't have cracked.
+
+start-1315.538 -> end-1339.445 
+Text:   Very nice, very nice. So, Tavishy, that's true. So amazing. Again, congratulations. I'm really
+feeling proud, you know, when I hear this kind of transient stories. And obviously, after putting a
+lot of effort, it really makes me feel that, okay, I need to prepare more better, probably to teach
+you all, so that if there are some serious candidates, right, they definitely will be able to clear
+it.
+
+start-1339.445 -> end-1354.906 
+Text:   Many people cannot afford very heavy amount of courses. So you are doing too good even with iNuron
+also. And you are just charging 20,000 or like if you have a discount coupon also very less.
+
+start-1354.906 -> end-1380.794 
+Text:   And you are giving three, three, four, four hours of session. My God, this is too good. Salute to
+you for this. And keep working like this. You're just two years older than me, but still you're a
+guru for me because you're just giving me the right direction. Okay. What next? What next? What
+next? You're like, whenever your videos come, I've always watched that. And please work hard like
+this and please motivate us and please keep updated. Like an update.
+
+start-1381.049 -> end-1403.865 
+Text:   Definitely. Updating part, don't worry. Anything new will be coming. I'll be sharing those kind of
+information with you all. So Tavishy, thank you once again. So guys, I will be providing Tavishy's
+LinkedIn ID. I hope I can provide you information if someone wants to probably communicate, ask you
+regarding your preparation strategy. Is that fine? We can put your LinkedIn ID in the description.
+But at the end of the day, see,
+
+start-1404.497 -> end-1428.046 
+Text:   Like how I have guided you, you can guide someone, you know, who cannot probably invest so much.
+Oh, you already started. I am bluntly saying that if you want to do something, then follow
+Krishnaik. Blindly follow Krishnaik. Don't go here and there. Okay, I always encourage people that
+if you understand in Hindi, don't feel like, no, this is in Hindi, how can I see? Don't feel it like
+this. At the end, you have to get a job.
+
+start-1428.046 -> end-1456.459 
+Text:   And at the end, we have to give an interview in English. So there are English videos also. Because
+there are some times we are all Indians. We don't understand things from the start that, OK, if all
+this is not understood in English, then Hindi videos are already there. You are working double,
+double hard. And people are getting a lot of benefit from that. When I saw your Hindi playlist of
+machine learning, all my doubts were cleared. All my doubts were cleared. And yes, I can say that I
+can correct any machine learning, any machine learning interview.
+
+start-1457.176 -> end-1478.2 
+Text:   That is so kind of you, ma'am. Great. Thank you, ma'am. Thank you. So guys, this was it. I really
+wanted to keep it till 20 to 24 minutes. But again, anything, any queries that you specifically
+have, if you have any doubts, definitely contact Tavishan ma'am through LinkedIn. You will get all
+the guidance specifically. So thank you, Tavishan ma'am, for coming to this specific podcast,
+guiding all the students.
+
+start-1478.2 -> end-1489.565 
+Text:   Really, really happy for you. I hope you do really well and always we are there anytime, any kind
+of queries, anything as such, any help in the future also will be there to help you out.
+
+start-1489.923 -> end-1510.384 
+Text:   Please make videos on LLM. We are eagerly waiting for your videos. I know it is very hectic to make
+videos, but please try to do that. I'm trying my level best, whatever is possible from my side.
+Definitely, I will be doing that, you know, till the end, whatever my life is till that end, I will
+keep on.
+
+start-1510.384 -> end-1524.974 
+Text:   promoting AI, you know, because I know the importance of it. And it can help many companies, many
+people and all. Right. So thank you, Tavishan ma'am. This was it from our side, guys. I hope you
+like this particular video. We'll all see you in the next video. Thank you. Take care. Bye bye.

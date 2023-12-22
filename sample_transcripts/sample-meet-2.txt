@@ -1,0 +1,58 @@
+start-5.657 -> end-32.671 
+Text:   Good morning students. Good morning sir. So what is the session which is going on today? Good
+morning sir. Today we are learning about the checkout procedure of the guests from the hotel. Oh
+that's great, that's great. So I hope Bhavish Sir and Salish Sir is going to take a class on
+checkouts, okay? Yes. So students, enjoy what they are teaching you. It's a very important thing
+which is happening in the hotel. Tell me students, how many of you have seen the checkout in the
+hotel?
+
+start-35.333 -> end-61.988 
+Text:   Who are responsible for the checkout? Receptionist and cashier. Very nice. Have you ever visited
+any 5-star hotel? Yes. Who else is responsible? Receptionist and cashier and GRE and Bell Boys. I
+would like volunteers. Who would be the cashier? Yes sir.
+
+start-70.265 -> end-99.48 
+Text:   Okay. And finally, who will be the guest? Yes. We have missed out anything? Yes. Bell boys. Who
+will become the bell boys? Yes, sir. Sure. Okay. And rest of you, you can just watch. Good morning,
+sir. Good morning. Fine. Sir, how may I assist you? I am staying in room number 302 and I want to
+check out from the hotel. Okay. Hello.
+
+start-99.974 -> end-128.712 
+Text:   Housekeeping Department. Can you give me the status of the room number 204? Can you give me
+minibar, room number 204? Okay, thank you. Could you please prepare the bill of the room number 204?
+Yes, sure. Please come. Please, ma'am. Good morning, ma'am. How may I assist you? I want to check
+out 303. Certainly, ma'am. Can I have your room keys, please? Thank you.
+
+start-131.681 -> end-161.032 
+Text:   Housekeeping department. Room number 303 is just dragging out. So let me know the status of the
+room and the mini bar also. Thank you. Okay, students. Now we will have the role play of the GRE.
+Damini, can you please come and take the feedback of the guests? Good morning, Ms. Ashita. Good
+morning. My name is Damini. Can I have two minutes of your valuable time? Yes. Did you visit
+Udaipur?
+
+start-161.254 -> end-179.753 
+Text:   Yes, I visit. How was the experience of Daipur, many places? It was a very good experience. I
+visited many places. There was a museum, a city palace. I visited two crystal galleries and a
+monsoon palace. It was a very good view there and overall it is a very good experience here in
+Daipur.
+
+start-180.64 -> end-208.507 
+Text:   Did you like our service in our hotel hospitality services and food services and like? Yeah, it was
+very good service here and I like the food. It was very amazing and the service was very good. They
+made me feel comfortable. Please ma'am, your share of variable feedback in our hotel and services.
+It is a very good hotel. I like the hotel ambience and I would surely come again here and the staff
+is very cooperative. Thank you ma'am.
+
+start-208.78 -> end-234.787 
+Text:   Thank you so much for your valuable feedback and please again visit our website. Thank you. Thank
+you so much. Okay students, now we will come to the final part that is settlement of the bill. You
+can, Kaisha will start. Sir, here is your copy of bill and please check all the details of bill and
+please make a sign over here. Okay. Sir, can I request for your note of payment?
+
+start-247.022 -> end-275.111 
+Text:   Present the bill to the guest. And give the receipt also. Sir, here is your final bill and receipt
+and your card. Okay, thank you. Sir, we look forward to see you again this month only in our
+remembrance.
+
+start-275.435 -> end-284.462 
+Text:   Have a wonderful day sir, have a safe journey and take care. Thank you.

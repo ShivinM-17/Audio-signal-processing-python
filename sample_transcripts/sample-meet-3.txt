@@ -1,0 +1,101 @@
+start-5.879 -> end-32.5 
+Text:   Good morning, everyone. Thank you for being here of kind. Good morning. Good morning. Hey, how are
+you? I'm doing well. I heard that you went to vacation, so how was it? It was fantastic. Where did
+you go? Paris. Wow, so generous. Okay, before we start, make sure that all of you have the meeting
+of agenda. Yes, yes. Okay, let me check the power point. Our purpose of the meeting
+
+start-32.5 -> end-58.387 
+Text:   Today is to discuss about the new market because as you know our sales keep increasing everyday
+from generally 2007 until October. So I think it will be good if we could expand our product. What
+do you think about it? I think we should expand our market right into overseas so that we can get
+more customers and make a lot of money. Okay.
+
+start-58.695 -> end-78.319 
+Text:   Wow, that's really nice. But if we expand our market to overseas, which countries should we export
+to our products? From my opinion, we may export our products to some countries in Europe, France,
+England, Italy or Germany, in other areas like Australia and Switzerland.
+
+start-78.609 -> end-101.937 
+Text:   That's really nice idea to import our product to us or European countries like UK because as we
+know that Koreans are really crazy for modern time skin. But for Asian countries like China, Korea
+or Japan, I don't think so because they want to have a white skin. If we export or expand our
+market, then we won't get a lot of profits.
+
+start-101.937 -> end-121.101 
+Text:   Moreover, they strongly believe in their culture that they should have the white skin. It will
+bring you good luck. We will move to the market again. As you know, our products only focus on 30 or
+40 years old.
+
+start-121.101 -> end-138.951 
+Text:   Should we be looking for the new market target? Yeah, I think our old target market around 30 to 40
+age is okay. However, we should focus more on younger age around 70 to 22 because the trend of
+homescales is becoming more popular than before.
+
+start-138.951 -> end-165.708 
+Text:   and most of people always think that tone speed is very attractive to our people. Okay, I really
+like your idea. Like, you focus on the old customers and looking for the new customers that way. But
+I'm not sure that the young is like 70 to 20 years old. Do they have money to buy our product?
+Because as you know, our product is quite luxury. So we should set a price.
+
+start-165.759 -> end-189.787 
+Text:   set our product in the mass market which we can set a price in different levels, low middle and
+high prices. Moreover, to attract new middle, younger customer, we also should set a price to be
+cheaper for those who are students and those who are workers that receives an average income all
+over.
+
+start-189.906 -> end-216.937 
+Text:   To do so, I think we would get more profit at the growth of our company. Yes, I agree with you. But
+I think that we should be a small size because some people they want to jump before buying a big
+one. They don't want to waste a lot of money.
+
+start-217.039 -> end-242.927 
+Text:   That's really nice idea for most of you. We should be the next ambassador because our market is
+expanding to international. So I would like to know who should be our brand ambassador. In my
+opinion, I think Rihanna because she is a brown skin tone. She is very famous and has many fans. So
+I think this is the best PR technique to make our product famous.
+
+start-242.927 -> end-253.524 
+Text:   Absolutely agree with you because she has a tan skin and she is very famous, therefore she has a
+lot of fans and maybe her fans will be crazy about our product.
+
+start-254.206 -> end-282.227 
+Text:   For me, I suggest Taylor Swift because she is a famous singer and she can create a brand image for
+our product. That's why I chose her to be a singer. Taylor Swift is also okay but the problem is we
+are selling the sunscreen. So our bread and butter should have the sunscreen. So Taylor Swift quite
+popular but she doesn't have ground skin to show our product, image of our product.
+
+start-282.227 -> end-296.544 
+Text:   For me, I choose Kylie Jenner. Since she is very well known among teenagers and has a lot of
+followers on the internet, so I think her influence can draw the members to try our products.
+
+start-296.852 -> end-319.002 
+Text:   That's really nice point too, because Kelly Jenner is the idol of the young age, so we have two
+persons in our mind. First is Kelly Jenner as Ithana. So we will talk about this in next week. Okay,
+we come to the last part. Before that, will you tell me if we go beyond the 10 minutes? Okay.
+
+start-320.333 -> end-327.654 
+Text:   As we know, we will introduce our product to the new Monday, which promotes that it can grab our
+customer attention.
+
+start-328.507 -> end-354.838 
+Text:   In my opinion, we just expand to the new target. So we should give a sample product to people who
+buy our product. Moreover, giving 20% of income to people who buy more than 5,000 bucks. Okay, I
+agree with you that we will give the sample of product as a small package, but I don't agree with
+the 20% of discount because it will cost a lot of money to our company.
+
+start-354.838 -> end-372.551 
+Text:   Excuse me, I think we have to finish this topic soon as we have just 50 minutes before the meeting
+ends. Okay, I would like to wish Morgana to sum up what we have said in this meeting to make clear
+the understanding to all of us.
+
+start-372.551 -> end-390.452 
+Text:   So we have talked about supporting our product for new countries such as United States, England,
+Germany and Australia. So as far for the target market, normally we focus on working-age but we try
+to focus on the group of new-age exchanges.
+
+start-390.452 -> end-418.746 
+Text:   but now we will also change our premium products to mass product because mass product is easy for
+us to target easily and we will get our price cheaper than before so the next ambassador for the new
+market will be considered in the next meeting so finally our new promotion is that we will give
+product example like virtual for customers okay do you have any questions? no thank you for today
+see you and bye
